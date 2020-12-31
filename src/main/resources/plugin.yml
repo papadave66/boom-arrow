@@ -1,0 +1,6 @@
+{
+ "name":"boom-arrow",
+ "version":"0.1",
+ "main":"rivoreo.minecraft.plugin.boomarrow.BukkitPlugin",
+ "description":"A bukkit plugin which can let your or skeleton's arrow explosive."
+}
